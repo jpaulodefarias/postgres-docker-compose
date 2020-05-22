@@ -1,4 +1,4 @@
-# postgres-docker-compose
+# postgresql-docker-compose
 Run Postgresql and PgAdmin in Docker containers.
 
 ## Run
